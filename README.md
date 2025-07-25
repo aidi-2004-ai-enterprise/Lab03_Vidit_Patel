@@ -23,7 +23,8 @@ What's Used here ?
 - Logging module
 - uv (for dependency management)
 
-The video link : 
+The video demo link : https://youtu.be/MozNkUf3XOE
+
 
 
 
