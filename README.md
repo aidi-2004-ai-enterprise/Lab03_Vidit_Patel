@@ -23,4 +23,7 @@ What's Used here ?
 - Logging module
 - uv (for dependency management)
 
+The video link : 
+
+
 
